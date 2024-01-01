@@ -1,4 +1,6 @@
 public class smartTv {
+
+    /* ligação de da calsse smartTV Atributos */
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
